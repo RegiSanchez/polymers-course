@@ -9,5 +9,5 @@ nav_order: 2
 In the following lesson it will be discussed what are polymers, their history, their classication and importance in the context of human activities.
 
 <video width="683" height="384" controls>
-  <source src="assets/images/lesson1.webm" type="video/webm">
+  <source src="../assets/images/lesson1.webm" type="video/webm">
 </video>
