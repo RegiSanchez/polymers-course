@@ -42,5 +42,5 @@ Finally, we also explore some of their most relevant physical properties.
     microscopy) instead of "microscopía bifocal."
 
  3. At 21:26, it is mentioned that the crystallization temperature is higher
-    than the melting temperature. This is no true. $$T_c$$ is always less than
-    or equal to $$T_m$$.
+    than the melting temperature. This is no true. $ T_c $ is always less than
+    or equal to $ T_m $.
