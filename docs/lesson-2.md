@@ -32,11 +32,15 @@ Finally, we also explore some of their most relevant physical properties.
 
 <br/>
 
-**ERRATA (Thirs video):**
+**ERRATA (Third video):**
 
- 1. At 21:26, it is mentioned that the crystallization temperature is higher
-    than the melting temperature. This is no true. $T_c$ is always less than or
-    equal to $T_m$.
+ 1. At 1:45, it is said "número de unidades de repetición que contiene esa
+    cadena" (number of repetition units in each chain), but it should be
+    "número de cadenas con esa masa" (number of chains with that mass).
 
  2. At 12:10 should say "microscopía de luz polarizada" (polarized-light
     microscopy) instead of "microscopía bifocal."
+
+ 3. At 21:26, it is mentioned that the crystallization temperature is higher
+    than the melting temperature. This is no true. $$T_c$$ is always less than
+    or equal to $$T_m$$.
