@@ -13,7 +13,7 @@ for polymers synthesis or *polymerization*.
   <source src="../assets/images/lesson2-1.webm" type="video/webm">
 </video>
 
-_
+&NewLine;
 
 We analyze how their molecular structure makes them behave different than
 smaller molecules.
@@ -22,6 +22,6 @@ smaller molecules.
   <source src="../assets/images/lesson2-2a.webm" type="video/webm">
 </video>
 
-_
+&NewLine;
 
 Finally, we also explore some of their most relevant physical properties.
