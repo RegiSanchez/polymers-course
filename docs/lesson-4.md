@@ -21,8 +21,6 @@ Down below you may find some links with much more and useful information.  I
 invite you to check all of them and to spread the word to help saving our
 planet.
 
-<br/>
-
 <a href =
 "https://www.nationalgeographic.com/environment/planetorplastic/">
 National Geographic:  Planet or Plastic?</a>
