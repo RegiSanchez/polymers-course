@@ -9,7 +9,7 @@ nav_order: 4
 In this final lesson, we will look at polymers from an environmental
 perspective.  This is an important issue for everyone, so we will review the
 risks involved regarding the use and disposal of plastics, as well as what can
-we do to help solving this worldwide problematic.
+we do to help solving this worldwide problem.
 
 <video width="683" height="384" controls>
   <source src="../assets/images/lesson4.webm" type="video/webm">
