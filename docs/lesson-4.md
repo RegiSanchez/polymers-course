@@ -27,43 +27,29 @@ planet.
 "https://www.nationalgeographic.com/environment/planetorplastic/">
 National Geographic:  Planet or Plastic?</a>
 
-<br/>
-
 <a href =
 "https://www.nationalgeographic.com/magazine/2018/06/plastic-planet-waste-pollution-trash-crisis/">
 National Geographic:  Waste pollution trash crisis.</a>
-
-<br/>
 
 <a href =
 "https://www.nationalgeographic.com/environment/plastic-facts/">
 National Geographic:  10 shocking facts about plastic.</a>
 
-<br/>
-
 <a href =
 "https://www.nationalgeographic.com/magazine/2018/06/plastic-planet-solutions-waste-pollution/">
 National Geographic:  Solutions to waste pollution.</a>
-
-<br/>
 
 <a href =
 "https://www.unenvironment.org/interactive/beat-plastic-pollution/">
 Beat plastic pollution.</a>
 
-<br/>
-
 <a href =
 "https://oceanservice.noaa.gov/hazards/marinedebris/plastics-in-the-ocean.html">
 A guide to plastic in the ocean.</a>
 
-<br/>
-
 <a href =
 "https://ecologycenter.org/factsheets/adverse-health-effects-of-plastics/">
 Adverse health effects of plastics.</a>
-
-<br/>
 
 <a href =
 "https://theoceancleanup.com/great-pacific-garbage-patch/">
